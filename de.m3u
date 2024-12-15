@@ -1,492 +1,502 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="SuperRTL"tvg-logo="https://i.imgur.com/S6KzchP.png"tvg-shift=""group-title="General":http-referrer="https://www.2ix2.com/super-rtl-live/":http-user-agent="",Super RTL HD (720p)
+#EXTINF:-1  tvg-id="SAT.1" tvg-logo="https://i.imgur.com/BbwGt1M.png" tvg-shift="" group-title="" :http-referrer="" :http-user-agent="",SAT.1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:-1  tvg-id="n-tv" tvg-logo="https://i.imgur.com/y53GMGD.png" tvg-shift="" group-title="" :http-referrer="" :http-user-agent="",n-tv
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:-1  tvg-id="TLC" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="" :http-referrer="" :http-user-agent="",TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:-1  tvg-id="kabel eins" tvg-logo="https://i.imgur.com/20o5OWX.png" tvg-shift="" group-title="" :http-referrer="" :http-user-agent="",kabel eins
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:-1  tvg-id="SAT.1 Gold" tvg-logo="https://i.imgur.com/XjRKocq.png" tvg-shift="" group-title="" :http-referrer="" :http-user-agent="",SAT.1 Gold (720p)
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:-1  tvg-id="SuperRTL" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3sat.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",3sat (720p)
+#EXTINF:-1  tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",3sat (720p)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="AltenburgTV.de"tvg-logo="https://i.imgur.com/3JriZGR.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Altenburg TV (1080p)
+#EXTINF:-1  tvg-id="AltenburgTV.de" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Altenburg TV (1080p)
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.de"tvg-logo="https://i.imgur.com/ecXMjNl.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",ARTE (720p)
+#EXTINF:-1  tvg-id="arte.de" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",ARTE (720p)
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Auf Achse
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Auf Achse
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f81-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=601f4d3b-4861-4283-9b4f-d09024aaa219
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Auto Motor Sport
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Auto Motor Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f82-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd6f9149-f825-44a8-988e-28acbcdc798e
-#EXTINF:-1 tvg-id="Avatar.de"tvg-logo="https://i.imgur.com/4nDlMt0.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Avatar
+#EXTINF:-1  tvg-id="Avatar.de" tvg-logo="https://i.imgur.com/4nDlMt0.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Baywatch
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Baywatch
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819e62b228b70008570e9f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5693-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d16fb6c5-9a46-423c-ad6d-ed7c38457c0d
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Becker
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Becker
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5695-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b31f04-864d-413e-8fc3-19d800ee7569
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Bellator MMA
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5696-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=efdc0c45-3350-44ad-87e8-545561770707
-#EXTINF:-1 tvg-id="BeverlyHills90210.de"tvg-logo="https://i.imgur.com/td3d1F8.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Beverly Hills 90210
+#EXTINF:-1  tvg-id="BeverlyHills90210.de" tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Beverly Hills 90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c388ec54-e705-453e-8f4f-45a71cebb28d
-#EXTINF:-1 tvg-id="BeybladeBurst.de"tvg-logo="https://i.imgur.com/yaHE8Uj.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Beyblade Burst
+#EXTINF:-1  tvg-id="BeybladeBurst.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Beyblade Burst
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03306a54-f5db-48a2-aa47-0d5671d10e01
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Big Time Rush
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Big Time Rush
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Billiard TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Billiard TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6a5c7ba-51fa-40bf-ba59-05a9daef6fd5
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Blaze und die Monstermaschinen
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Blaze und die Monstermaschinen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4041af9-036d-4b63-bc69-460e45fdcf98
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Bloch Erklärt
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Bloch Erklärt
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a2c1ff9cc82000867dada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bf2007bc-2b1a-4227-ad70-315b7a122d66
-#EXTINF:-1 tvg-id="BluesClues.de"tvg-logo="https://i.imgur.com/sHRHnzf.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Blue's Clues
+#EXTINF:-1  tvg-id="BluesClues.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Blue's Clues
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c6a32f6-bdd9-4cb2-8697-def40b294b7e
-#EXTINF:-1 tvg-id="BRFernsehenNord.de"tvg-logo="https://i.imgur.com/26s6V64.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",BR Fernsehen Nord (720p)
+#EXTINF:-1  tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/26s6V64.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",BR Fernsehen Nord (720p)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenSud.de"tvg-logo="https://i.imgur.com/26s6V64.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",BR Fernsehen Süd (720p)
+#EXTINF:-1  tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/26s6V64.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",BR Fernsehen Süd (720p)
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="BubbleGuppies.de"tvg-logo="https://i.imgur.com/xNaAbUE.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Bubble Guppies
+#EXTINF:-1  tvg-id="BubbleGuppies.de" tvg-logo="https://i.imgur.com/xNaAbUE.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Bubble Guppies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9f332f4-cf88-4dfa-b110-d5810536c437
-#EXTINF:-1 tvg-id="CCMadeinGermany.de"tvg-logo="https://i.imgur.com/er0iYvS.png"tvg-shift=""group-title="Comedy":http-referrer="":http-user-agent="",CC Made in Germany
+#EXTINF:-1  tvg-id="CCMadeinGermany.de" tvg-logo="https://i.imgur.com/er0iYvS.png" tvg-shift="" group-title="Comedy" :http-referrer="" :http-user-agent="",CC Made in Germany
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cebc08f6-619a-468b-ba8e-e6971225e6c6
-#EXTINF:-1 tvg-id="CCPlutoTV.de"tvg-logo="https://i.imgur.com/MjC40At.png"tvg-shift=""group-title="Comedy":http-referrer="":http-user-agent="",CC Pluto TV
+#EXTINF:-1  tvg-id="CCPlutoTV.de" tvg-logo="https://i.imgur.com/MjC40At.png" tvg-shift="" group-title="Comedy" :http-referrer="" :http-user-agent="",CC Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4adaaf6-09fa-43e6-a254-c92d6891db35
-#EXTINF:-1 tvg-id="ChaosCity.de"tvg-logo="https://i.imgur.com/1UZNdRH.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Chaos City
+#EXTINF:-1  tvg-id="ChaosCity.de" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Chaos City
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
-#EXTINF:-1 tvg-id="Cheers.de"tvg-logo="https://i.imgur.com/xIlF92v.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Cheers
+#EXTINF:-1  tvg-id="Cheers.de" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Cheers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d96d22d-3148-4e7e-b0e9-67b35648c724
-#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de"tvg-logo="https://i.imgur.com/4SEAbVf.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Chemnitz Fernsehen (1080p)
+#EXTINF:-1  tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Clarissa
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Clarissa
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1e3c23ed-3d87-4733-9ff1-947db55c9d2d
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Coast Guard
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Coast Guard
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddd96abcba80008d03b74/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0b5b2224-98cb-4873-9044-ed2cbab31407
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.de"tvg-logo="https://i.imgur.com/M5rmICZ.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Comedy Central South Park
+#EXTINF:-1  tvg-id="ComedyCentralSouthPark.de" tvg-logo="https://i.imgur.com/M5rmICZ.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Comedy Central South Park
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c716084d842c00085f6e64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97acadcb-fbad-44de-8539-290d36c83227
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Dark Matter
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Dark Matter
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e3ab5c8-117b-416c-9ac1-fbde8843a568
-#EXTINF:-1 tvg-id="DasErste.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Das Erste (1080p)
+#EXTINF:-1  tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Das Erste (1080p)
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de"tvg-logo="https://i.imgur.com/BmklHs8.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",DASDING 90.8 (720p)
+#EXTINF:-1  tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/BmklHs8.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",DASDING 90.8 (720p)
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",DAZN Darts x Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Darts x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e449819-d189-42df-8e7a-17486c6d68aa
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",DAZN Heldinnen x Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Heldinnen x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
-#EXTINF:-1 tvg-id="DeluxeDance.de"tvg-logo="https://i.imgur.com/Qu7t15Y.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Deluxe Dance (1080p)
+#EXTINF:-1  tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Dance (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de"tvg-logo="https://i.imgur.com/HimuPPb.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Deluxe Music (720p)
+#EXTINF:-1  tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeRap.de"tvg-logo="https://i.imgur.com/s3h67hx.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Deluxe Rap (1080p)
+#EXTINF:-1  tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Der Denver-Clan
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Der Denver-Clan
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90febea4-cfd6-4ae3-909d-07bf5e002eda
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Die Schöne und das Biest
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Die Schöne und das Biest
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ae47337bdc8d000853f1fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31aca179-b7b3-4f82-9998-48492d6a03e5
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Die Thundermans
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Die Thundermans
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=072707cc-c1e4-4fea-8582-e3b6779c864c
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Dittsche
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Dittsche
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41a61ea0-a15c-4696-a42f-21d3370d4067
-#EXTINF:-1 tvg-id="Dokusat.de"tvg-logo="https://i.imgur.com/GadfTwF.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Dokusat (1080p)
+#EXTINF:-1  tvg-id="Dokusat.de" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="DoraTV.de"tvg-logo="https://i.imgur.com/zJuSbmU.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Dora TV
+#EXTINF:-1  tvg-id="DoraTV.de" tvg-logo="https://i.imgur.com/zJuSbmU.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f38d5cb-dcfd-4261-b299-2bb3409c224c
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Drake & Josh
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Drake & Josh
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c494a10d800085cab06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d07619e-6f1c-4551-b814-afb62e97b485
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Ein Engel auf Erden
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Ein Engel auf Erden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f487722d9d400075f74dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc257dd1-b888-4d09-bd2d-9a97fb61b7ed
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Euronews
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Euronews
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e4b88ec-5984-4688-a30a-030ab8602e7c
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",F.B.I. Files
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",F.B.I. Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f14a19a-0066-4a45-be41-279347754e05
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Familie Dr. Kleist
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Familie Dr. Kleist
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819f14b9adc4000813ee39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40b7900e-6657-42b2-afd3-3bf51708cfce
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Familienbande
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Familienbande
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe3a21eac3c00076a03f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c90d1870-ec22-4d9a-a5ae-f96ad9e66c77
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Filmgold
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
-#EXTINF:-1 tvg-id="Filmstream.nl"tvg-logo="https://i.imgur.com/DTRPV6B.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Filmstream
+#EXTINF:-1  tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filstalwelle.de"tvg-logo="https://i.imgur.com/19iKLvf.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",Filstalwelle (1080p)
+#EXTINF:-1  tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Filstalwelle (1080p)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Fluss-Monster
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Fluss-Monster
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a0b2aff4cf470007e47e29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1bf2399a-9762-4f2b-8e0b-daf1db4fac6e
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Frasier
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Frasier
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebf042ffc6d0007c4e59a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6800-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f552b359-8c8e-4816-8106-6f91f060d965
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Freitag Nacht News
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Freitag Nacht News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6801-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cbade38c-4557-4dbe-9035-8337a9b39fac
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Fury
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Fury
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6270ea4345f5bc0007823048/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6802-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59b98e79-5c91-4b90-b21b-df3ab3630476
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Game Shakers
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Game Shakers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447de0f5a0cd5000849cc95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6803-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b7008dca-2ad4-407d-a601-3d098f833e85
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",GARAGENGOLD
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",GARAGENGOLD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a2bfeab05240008a12881/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6804-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e0fbef-c298-4024-b6f0-c9a111ea0795
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Germany Shore
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Germany Shore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6805-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c4dcd23-a017-4d7e-a0f1-ce0220928f16
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Goldstar TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Goldstar TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6806-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ec1275e-0641-49e2-81e6-6d37a37b7bd3
-#EXTINF:-1 tvg-id="h1.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",H1 Fernsehen (1080p)
+#EXTINF:-1  tvg-id="h1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",H1 Fernsehen (1080p)
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Hausmeister Krause
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Hausmeister Krause
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6807-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7001824-448d-4432-b0f6-f73039f34e53
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Hawaii Fünf-Null
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Hawaii Fünf-Null
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6349259d1d90320007fcb1d9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6808-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a4c2099d-f6da-47f0-b3a9-7626a374cbb0
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Hell's Kitchen
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Hell's Kitchen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f10-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=02a68eb1-ac6e-4f61-b4fb-4c740e614b6b
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Hours to Kill Zeitachse des Todes
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Hours to Kill Zeitachse des Todes
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f12-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=57f69955-40a5-48e8-9937-db609244fdd4
-#EXTINF:-1 tvg-id="iCarly.de"tvg-logo="https://i.imgur.com/EHLHuNo.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",iCarly
+#EXTINF:-1  tvg-id="iCarly.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",iCarly
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f13-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=016798d3-d8a9-4683-81ba-9d514289474b
-#EXTINF:-1 tvg-id="IcePilots.de"tvg-logo="https://i.imgur.com/WU0PgnM.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Ice Pilots
+#EXTINF:-1  tvg-id="IcePilots.de" tvg-logo="https://i.imgur.com/WU0PgnM.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Ice Pilots
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f14-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e3f7479-1434-4263-91dc-309a9e66bfbe
-#EXTINF:-1 tvg-id="InspectorGadget.de"tvg-logo="https://i.imgur.com/ArXd1xM.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Inspector Gadget
+#EXTINF:-1  tvg-id="InspectorGadget.de" tvg-logo="https://i.imgur.com/ArXd1xM.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Inspector Gadget
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f15-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=63479ffd-d7d9-473f-9f9f-753a49f5d5d1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Just.fishing
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Just.fishing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f17-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06cb634-30f9-492b-b1b6-c1c3af23164b
-#EXTINF:-1 tvg-id="KiKA.de"tvg-logo="https://i.imgur.com/vZdNp5S.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",KiKA (1080p)
+#EXTINF:-1  tvg-id="KiKA.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",KiKA (1080p)
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",KultKrimi
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",KultKrimi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5cfe5caf83414128f209e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f18-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=834d5c49-37ba-4a4c-84d2-e2c8886e2eb3
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",KultKrimi: Der Alte
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",KultKrimi: Der Alte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5ef28730900089af7cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb620-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bdf10162-454c-4d22-9119-88e3b32d25fc
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",KultKrimi: Der Kommissar
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",KultKrimi: Der Kommissar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde626ec9fda0008b3dc89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb621-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78ff4e-ffa9-4d79-8dde-f3834e4924b9
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Kultkrimi: Derrick
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Kultkrimi: Derrick
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5848145cb00083277f6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb622-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06a44c4a-5d6f-4b01-a53c-91e48d9ed4f6
-#EXTINF:-1 tvg-id="KulturMD.de"tvg-logo="https://i.imgur.com/io7cJ1Z.png"tvg-shift=""group-title="Culture":http-referrer="":http-user-agent="",KulturMD (1080p)
+#EXTINF:-1  tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" tvg-shift="" group-title="Culture" :http-referrer="" :http-user-agent="",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV.de"tvg-logo="https://i.imgur.com/HuGaMJj.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",L-TV (720p)
+#EXTINF:-1  tvg-id="LTV.de" tvg-logo="https://i.imgur.com/HuGaMJj.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",L-TV (720p)
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1 tvg-id="Lausitzwelle.de"tvg-logo="https://i.imgur.com/4kYF4bK.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Lausitzwelle (1080p)
+#EXTINF:-1  tvg-id="Lausitzwelle.de" tvg-logo="https://i.imgur.com/4kYF4bK.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de"tvg-logo="https://i.imgur.com/easmJUw.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Leipzig Fernsehen (1080p)
+#EXTINF:-1  tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Leipzig Fernsehen (1080p)
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Love Boat
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Love Boat
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3d1fbc15b00081f1186/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb623-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1e0f04ba-5d44-4497-a76d-5e853cd252c7
-#EXTINF:-1 tvg-id="MagentaMusik360.de"tvg-logo="https://i.imgur.com/R74gG7U.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Magenta Musik 360 (1080p)
+#EXTINF:-1  tvg-id="MagentaMusik360.de" tvg-logo="https://i.imgur.com/R74gG7U.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Magenta Musik 360 (1080p)
 https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
-#EXTINF:-1 tvg-id="MarcoPoloTV.de"tvg-logo="https://i.imgur.com/tAaMdp0.png"tvg-shift=""group-title="Lifestyle":http-referrer="":http-user-agent="",Marco Polo TV
+#EXTINF:-1  tvg-id="MarcoPoloTV.de" tvg-logo="https://i.imgur.com/tAaMdp0.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",Marco Polo TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb624-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c670d03b-8683-44b1-822a-72919a68ae4d
-#EXTINF:-1 tvg-id="MDF1.de"tvg-logo="https://i.imgur.com/IFGXK6u.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",MDF.1 (1080p)
+#EXTINF:-1  tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",MDF.1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de"tvg-logo="https://i.imgur.com/cYHoPXb.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",MDR Fernsehen Sachsen-Anhalt (1080p)
+#EXTINF:-1  tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",MDR Fernsehen Sachsen-Anhalt (1080p)
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Melrose Place
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Melrose Place
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be745340962900080b55e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb625-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c899887-c596-406b-8385-e0b91067adf2
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Mission Impossible
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Mission Impossible
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe5afece2e60007c9d8b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb626-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0105bf0a-9d01-41f4-88ef-c646d21554f0
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de"tvg-logo="https://i.imgur.com/SLrjImc.png"tvg-shift=""group-title="Sports":http-referrer="":http-user-agent="",More Than Sports TV (1080p)
+#EXTINF:-1  tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Moviepilot TV mit Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e
-#EXTINF:-1 tvg-id="MTVCatfishTVShow.de"tvg-logo="https://i.imgur.com/EhRHAT2.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",MTV Catfish TV Show
+#EXTINF:-1  tvg-id="MTVCatfishTVShow.de" tvg-logo="https://i.imgur.com/EhRHAT2.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV Catfish TV Show
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
-#EXTINF:-1 tvg-id="MTVLoveMusic.de"tvg-logo="https://i.imgur.com/C3YvMwj.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",MTV Love Music
+#EXTINF:-1  tvg-id="MTVLoveMusic.de" tvg-logo="https://i.imgur.com/C3YvMwj.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",MTV Love Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd38-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=156eb840-05c4-4f6d-82d6-1f1d007cc69e
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",MTV Music
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",MTV Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
-#EXTINF:-1 tvg-id="MTVPlutoTV.de"tvg-logo="https://i.imgur.com/NQXLkd1.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",MTV Pluto TV
+#EXTINF:-1  tvg-id="MTVPlutoTV.de" tvg-logo="https://i.imgur.com/NQXLkd1.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
-#EXTINF:-1 tvg-id="MTVRidiculousness.de"tvg-logo="https://i.imgur.com/GIKkbjT.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",MTV Ridiculousness
+#EXTINF:-1  tvg-id="MTVRidiculousness.de" tvg-logo="https://i.imgur.com/GIKkbjT.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MTV Ridiculousness
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0447-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb5d0b-2c4f-4b1b-8610-d3689603c938
-#EXTINF:-1 tvg-id="MTVSerie.de"tvg-logo="https://i.imgur.com/B8dB6hE.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",MTV Serie
+#EXTINF:-1  tvg-id="MTVSerie.de" tvg-logo="https://i.imgur.com/B8dB6hE.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV Serie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609536871db47700075a04bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0449-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ead3cd0-99a8-4b3b-83e4-6c4be0dae5da
-#EXTINF:-1 tvg-id="MTVTeenMom.de"tvg-logo="https://i.imgur.com/w82lkBz.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",MTV Teen Mom
+#EXTINF:-1  tvg-id="MTVTeenMom.de" tvg-logo="https://i.imgur.com/w82lkBz.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae044a-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1702995c-e680-43a7-aab2-8ad161900add
-#EXTINF:-1 tvg-id="MTVTheHills.de"tvg-logo="https://i.imgur.com/s1Rlj2a.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",MTV The Hills
+#EXTINF:-1  tvg-id="MTVTheHills.de" tvg-logo="https://i.imgur.com/s1Rlj2a.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV The Hills
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b50-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2601e066-e9a4-4c67-8fe1-ea001c98c301
-#EXTINF:-1 tvg-id="MTVTheShores.de"tvg-logo="https://i.imgur.com/I2QM1Gd.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",MTV The Shores
+#EXTINF:-1  tvg-id="MTVTheShores.de" tvg-logo="https://i.imgur.com/I2QM1Gd.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV The Shores
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
-#EXTINF:-1 tvg-id="MTVUnplugged.de"tvg-logo="https://i.imgur.com/WnZiNz0.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",MTV Unplugged
+#EXTINF:-1  tvg-id="MTVUnplugged.de" tvg-logo="https://i.imgur.com/WnZiNz0.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",MTV Unplugged
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
-#EXTINF:-1 tvg-id="MyTVplus.de"tvg-logo="https://i.imgur.com/zA22TQH.png"tvg-shift=""group-title="Entertainment":http-referrer="":http-user-agent="",MyTVplus (Dresden) (576p)
+#EXTINF:-1  tvg-id="MyTVplus.de" tvg-logo="https://i.imgur.com/zA22TQH.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MyTVplus (Dresden) (576p)
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="N24Doku.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",N24 Doku
+#EXTINF:-1  tvg-id="N24Doku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",N24 Doku
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
-#EXTINF:-1 tvg-id="naheTV.de"tvg-logo="https://i.imgur.com/w3yzJoK.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",naheTV (720p)
+#EXTINF:-1  tvg-id="naheTV.de" tvg-logo="https://i.imgur.com/w3yzJoK.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",naheTV (720p)
 https://s.ok54.de/nahetv/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Naruto
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b56-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=624d6e59-b964-41c4-8e12-4ec9c07d66e8
-#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",NDR Hamburg (720p)
+#EXTINF:-1  tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",NDR Hamburg (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-id="NickSpace.de"tvg-logo="https://i.imgur.com/DNzsCLg.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Nick Space
+#EXTINF:-1  tvg-id="NickSpace.de" tvg-logo="https://i.imgur.com/DNzsCLg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5260-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6835637-a922-4815-9f33-c332f95fd25c
-#EXTINF:-1 tvg-id="NiederbayernTV.de"tvg-logo="https://i.imgur.com/9uaMgTk.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Niederbayern TV (720p)
+#EXTINF:-1  tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Niederbayern TV (720p)
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:-1 tvg-id="noa4Hamburg.de"tvg-logo="https://i.imgur.com/7A2LRKI.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Noa 4 Hamburg (1080p)
+#EXTINF:-1  tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2LRKI.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Noa 4 Hamburg (1080p)
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="noa4Norderstedt.de"tvg-logo="https://i.imgur.com/941nrGb.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Noa 4 Norderstedt (1080p)
+#EXTINF:-1  tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Noa 4 Norderstedt (1080p)
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="NRWision.de"tvg-logo="https://i.imgur.com/RkF2Kmx.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",NRWision (1080p)
+#EXTINF:-1  tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",NRWision (1080p)
 https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="OberlausitzTV.de"tvg-logo="https://i.imgur.com/A7WA7dC.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Oberlausitz TV (1080p)
+#EXTINF:-1  tvg-id="OberlausitzTV.de" tvg-logo="https://i.imgur.com/A7WA7dC.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Oberlausitz TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="OberpfalzTV.de"tvg-logo="https://i.imgur.com/ISI5KDd.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Oberpfalz TV (1080p)
+#EXTINF:-1  tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="OFTVOffenbach.de"tvg-logo="https://i.imgur.com/WAcxCJr.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OF-TV Offenbach (720p)
+#EXTINF:-1  tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OF-TV Offenbach (720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 tvg-id="OK4.de"tvg-logo="https://i.imgur.com/cUlMOlt.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK4 (720p)
+#EXTINF:-1  tvg-id="OK4.de" tvg-logo="https://i.imgur.com/cUlMOlt.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK4 (720p)
 https://s.ok54.de/abr_ok4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OK54.de"tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK54 (720p)
+#EXTINF:-1  tvg-id="OK54.de" tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK54 (720p)
 https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="OKFlensburg.de"tvg-logo="https://i.imgur.com/NPbfgQC.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Flensburg (576p)
+#EXTINF:-1  tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Flensburg (576p)
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="OKKaiserslautern.de"tvg-logo="https://i.imgur.com/MRrETTh.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Kaiserslautern (720p)
+#EXTINF:-1  tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kaiserslautern (720p)
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKassel.de"tvg-logo="https://i.imgur.com/igZ9sx2.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Kassel (720p)
+#EXTINF:-1  tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kassel (720p)
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKiel.de"tvg-logo="https://i.imgur.com/eToHabX.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Kiel (576p)
+#EXTINF:-1  tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kiel (576p)
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-id="OKMagdeburg.de"tvg-logo="https://i.imgur.com/zftoymR.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Magdeburg (1080p)
+#EXTINF:-1  tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Magdeburg (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTVMainz.de"tvg-logo="https://i.imgur.com/XvK94tN.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Mainz (720p)
+#EXTINF:-1  tvg-id="OKTVMainz.de" tvg-logo="https://i.imgur.com/XvK94tN.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Mainz (720p)
 https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKRheinMain.de"tvg-logo="https://i.imgur.com/XsmPI4N.jpg"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Rhein-Main (576p)
+#EXTINF:-1  tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Rhein-Main (576p)
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-id="OKRheinLokalWorms.de"tvg-logo="https://i.imgur.com/6tAimWV.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK RheinLokal (Worms) (720p)
+#EXTINF:-1  tvg-id="OKRheinLokalWorms.de" tvg-logo="https://i.imgur.com/6tAimWV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK RheinLokal (Worms) (720p)
 https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKStendal.de"tvg-logo="https://i.imgur.com/s9wo85l.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Stendal (1080p)
+#EXTINF:-1  tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Stendal (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSuedwestpfalz.de"tvg-logo="https://i.imgur.com/lhlQzLg.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Suedwestpfalz (720p)
+#EXTINF:-1  tvg-id="OKSuedwestpfalz.de" tvg-logo="https://i.imgur.com/lhlQzLg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Suedwestpfalz (720p)
 https://s.ok54.de/okswp/test/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTrier.de"tvg-logo="https://i.imgur.com/nq32HIs.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Trier (720p)
+#EXTINF:-1  tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Trier (720p)
 https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de"tvg-logo="https://i.imgur.com/bjTajXb.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Weinstraße (Neustadt) (432p)
+#EXTINF:-1  tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Weinstraße (Neustadt) (432p)
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWernigerode.de"tvg-logo="https://i.imgur.com/3gQvhSy.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",OK Wernigerode (1080p)
+#EXTINF:-1  tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Wernigerode (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-id="One.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",One (1080p)
+#EXTINF:-1  tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",One (1080p)
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pacific Blue
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pacific Blue
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad5bd283aa40008064568/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5263-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e14b69c-ec83-4ccb-9507-4698f4ad04ec
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de"tvg-logo="https://i.imgur.com/mksEgwx.png"tvg-shift=""group-title="Legislative":http-referrer="":http-user-agent="",Parlamentsfernsehen 1 (1080p)
+#EXTINF:-1  tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-shift="" group-title="Legislative" :http-referrer="" :http-user-agent="",Parlamentsfernsehen 1 (1080p)
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PeerTVSudtirol.it"tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"tvg-shift=""group-title="Outdoor;Travel":http-referrer="":http-user-agent="",Peer TV Südtirol (1080p)
+#EXTINF:-1  tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-shift="" group-title="Outdoor;Travel" :http-referrer="" :http-user-agent="",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Perry Mason
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Perry Mason
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5266-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ab3292e-7fc5-4103-8872-a104548d3ffe
-#EXTINF:-1 tvg-id="phoenix.de"tvg-logo="https://i.imgur.com/T1532t9.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Phoenix (720p)
+#EXTINF:-1  tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Phoenix (720p)
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV #1
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV #1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640f4f4083f589000828a544/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5267-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac0ade3-c141-4cf3-a9bd-99313a9f43d3
-#EXTINF:-1 tvg-id="PlutoTVAnimals.de"tvg-logo="https://i.imgur.com/SMQxSV6.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Animals
+#EXTINF:-1  tvg-id="PlutoTVAnimals.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
-#EXTINF:-1 tvg-id="PlutoTVAnime.de"tvg-logo="https://i.imgur.com/GHW6prH.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Anime
+#EXTINF:-1  tvg-id="PlutoTVAnime.de" tvg-logo="https://i.imgur.com/GHW6prH.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Camp
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Camp
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661801e871e8c30008a73f7b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7972-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad3c3224-e568-4336-97ed-de70a70dc695
-#EXTINF:-1 tvg-id="PlutoTVCrime.de"tvg-logo="https://i.imgur.com/K3MC9xn.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Crime
+#EXTINF:-1  tvg-id="PlutoTVCrime.de" tvg-logo="https://i.imgur.com/K3MC9xn.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7973-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69be320f-69fa-4e89-9e79-4dce587a0151
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Deutsches Kino
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Deutsches Kino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7975-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc241168-281d-4fac-b62d-4585cc441c02
-#EXTINF:-1 tvg-id="PlutoTVDocumentaries.de"tvg-logo="https://i.imgur.com/rpNBYXU.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Documentaries
+#EXTINF:-1  tvg-id="PlutoTVDocumentaries.de" tvg-logo="https://i.imgur.com/rpNBYXU.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Documentaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7977-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=afad5263-75e1-48ce-9de2-e9a428ebcb39
-#EXTINF:-1 tvg-id="PlutoTVExplore.de"tvg-logo="https://i.imgur.com/qmaYrGb.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Explore
+#EXTINF:-1  tvg-id="PlutoTVExplore.de" tvg-logo="https://i.imgur.com/qmaYrGb.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Explore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7978-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48b4a91c-514f-44ce-b5b2-0f355a642d0e
-#EXTINF:-1 tvg-id="PlutoTVFood.de"tvg-logo="https://i.imgur.com/E3XBrOf.png"tvg-shift=""group-title="Lifestyle":http-referrer="":http-user-agent="",Pluto TV Food
+#EXTINF:-1  tvg-id="PlutoTVFood.de" tvg-logo="https://i.imgur.com/E3XBrOf.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",Pluto TV Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7979-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afece0b-4e3f-4de4-935d-3288b6200e01
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV heiße Nächte
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV heiße Nächte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea080-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f9d11a2-637a-40fd-aae8-8ad9bf48a0e2
-#EXTINF:-1 tvg-id="PlutoTVHistory.de"tvg-logo="https://i.imgur.com/c2s1EA3.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV History
+#EXTINF:-1  tvg-id="PlutoTVHistory.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea081-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d66523d-c59b-4354-aedb-17d13edf0d26
-#EXTINF:-1 tvg-id="PlutoTVHome.de"tvg-logo="https://i.imgur.com/KclITaO.png"tvg-shift=""group-title="Lifestyle":http-referrer="":http-user-agent="",Pluto TV Home
+#EXTINF:-1  tvg-id="PlutoTVHome.de" tvg-logo="https://i.imgur.com/KclITaO.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",Pluto TV Home
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea082-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98a9fe20-9187-429d-b9ac-8042d3142022
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Horror
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Horror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea083-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67746cb2-93c1-4a0a-874d-a4043328cb08
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Knallhart
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Knallhart
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea087-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=afe5c1f5-e3c6-453b-a231-7baa7ac86ba1
-#EXTINF:-1 tvg-id="PlutoTVKultfilme.de"tvg-logo="https://i.imgur.com/RJhxl8t.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Kultfilme
+#EXTINF:-1  tvg-id="PlutoTVKultfilme.de" tvg-logo="https://i.imgur.com/RJhxl8t.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV liebt John Wayne
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV liebt John Wayne
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ef0f9d2873090008be19df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea089-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=debf8004-1d35-4eb6-830a-47860f09640f
-#EXTINF:-1 tvg-id="PlutoTVMovies.de"tvg-logo="https://i.imgur.com/P9Zoa9L.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Movies
+#EXTINF:-1  tvg-id="PlutoTVMovies.de" tvg-logo="https://i.imgur.com/P9Zoa9L.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Pluto TV Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
-#EXTINF:-1 tvg-id="PlutoTVMystery.de"tvg-logo="https://i.imgur.com/oXpLEXI.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Mystery
+#EXTINF:-1  tvg-id="PlutoTVMystery.de" tvg-logo="https://i.imgur.com/oXpLEXI.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Mystery
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617aad99b68ef100072608cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec792-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b2bcb00-9a00-402e-b731-873dc95db9fc
-#EXTINF:-1 tvg-id="PlutoTVNature.de"tvg-logo="https://i.imgur.com/PFaGiFD.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Nature
+#EXTINF:-1  tvg-id="PlutoTVNature.de" tvg-logo="https://i.imgur.com/PFaGiFD.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Nature
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec793-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dd5077d7-0ac1-491c-87dc-536ab13c0313
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de"tvg-logo="https://i.imgur.com/0C1cbmC.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Paranormal
+#EXTINF:-1  tvg-id="PlutoTVParanormal.de" tvg-logo="https://i.imgur.com/0C1cbmC.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Paranormal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98487036af340008da1e37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec794-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d13891a-ff55-4504-afee-87e1e9ecdbd6
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Polar+
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Polar+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec795-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41cfa3c9-a6dd-4995-91ad-c950b8d1004e
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Polizeiserien
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Polizeiserien
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec796-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=813b79c7-b5ab-4408-ae58-2c80c52c7f3a
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Power Frauen
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Power Frauen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625423185e237b0007f6764e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec797-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1697c3d-51e5-4838-acfd-20d30d7be107
-#EXTINF:-1 tvg-id="PlutoTVRetroToons.de"tvg-logo="https://i.imgur.com/e2MtZHO.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Retro Toons
+#EXTINF:-1  tvg-id="PlutoTVRetroToons.de" tvg-logo="https://i.imgur.com/e2MtZHO.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Pluto TV Retro Toons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec798-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebd144d9-d7a1-43ae-a500-82297b0dbac5
-#EXTINF:-1 tvg-id="PlutoTVRomance.de"tvg-logo="https://i.imgur.com/grmHcZs.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Romance
+#EXTINF:-1  tvg-id="PlutoTVRomance.de" tvg-logo="https://i.imgur.com/grmHcZs.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec799-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cee60e-49f2-4985-953a-f2cde441fe54
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de"tvg-logo="https://i.imgur.com/Zkl2Tin.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Sci-Fi
+#EXTINF:-1  tvg-id="PlutoTVSciFi.de" tvg-logo="https://i.imgur.com/Zkl2Tin.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91571e99-b22e-454e-9622-6abd1ff79fd1
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Science
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=823a3c37-13b3-4ca9-b978-d98c2630c834
-#EXTINF:-1 tvg-id="PlutoTVSerie.de"tvg-logo="https://i.imgur.com/NvqE1MY.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Serie
+#EXTINF:-1  tvg-id="PlutoTVSerie.de" tvg-logo="https://i.imgur.com/NvqE1MY.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Pluto TV Serie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c39f6559-678d-4811-85d3-2aeecd09668a
-#EXTINF:-1 tvg-id="PlutoTVSeriePlus.de"tvg-logo="https://i.imgur.com/bqedNmK.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Serie+
+#EXTINF:-1  tvg-id="PlutoTVSeriePlus.de" tvg-logo="https://i.imgur.com/bqedNmK.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Serie+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e0c3c1a-9aa2-46b3-994f-ab3a1c929f78
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.de"tvg-logo="https://i.imgur.com/YzrUL8P.png"tvg-shift=""group-title="Comedy":http-referrer="":http-user-agent="",Pluto TV Sitcoms
+#EXTINF:-1  tvg-id="PlutoTVSitcoms.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" tvg-shift="" group-title="Comedy" :http-referrer="" :http-user-agent="",Pluto TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=280db36d-ffba-4223-8a7d-77e6a96d3758
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Sitcoms+
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Sitcoms+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=57a04ab4-08c0-4114-8c90-0153ccf85d53
-#EXTINF:-1 tvg-id="PlutoTVSpace.de"tvg-logo="https://i.imgur.com/8BpRJ9G.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV Space
+#EXTINF:-1  tvg-id="PlutoTVSpace.de" tvg-logo="https://i.imgur.com/8BpRJ9G.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
-#EXTINF:-1 tvg-id="PlutoTVStarTrek.de"tvg-logo="https://i.imgur.com/S1n7T0k.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Star Trek
+#EXTINF:-1  tvg-id="PlutoTVStarTrek.de" tvg-logo="https://i.imgur.com/S1n7T0k.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Pluto TV Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3329cc1b-d91f-4194-b516-92fbd807049b
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de"tvg-logo="https://i.imgur.com/6QpQf6J.png"tvg-shift=""group-title="Documentary":http-referrer="":http-user-agent="",Pluto TV True Crime
+#EXTINF:-1  tvg-id="PlutoTVTrueCrime.de" tvg-logo="https://i.imgur.com/6QpQf6J.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV True Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615333098185f00008715a56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=96f45124-9486-4038-a177-6f5206a39041
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Pluto TV Western
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Western
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f9be2fb-9bfd-4c1e-8963-ba4370795ff3
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Praxis Bülowbogen
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Praxis Bülowbogen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6254240a8256cb00079a9bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afc392a-35ed-4c17-836b-f67bc087a104
-#EXTINF:-1 tvg-id="ProSieben.de"tvg-logo="https://i.imgur.com/zZOk3nh.png"tvg-shift=""group-title="Undefined":http-referrer="http://85.187.13.40:18000/":http-user-agent="",ProSieben (576p)
+#EXTINF:-1  tvg-id="ProSieben.de" tvg-logo="https://i.imgur.com/zZOk3nh.png" tvg-shift="" group-title="Undefined" :http-referrer="http://85.187.13.40:18000/" :http-user-agent="",ProSieben (576p)
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",QVC 2 Germany (540p)
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-id="Radio21TV.de"tvg-logo="https://i.imgur.com/u8OhwI1.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Radio 21 TV (720p)
+#EXTINF:-1  tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Radio 21 TV (720p)
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioBremenFernsehen.de"tvg-logo="https://i.imgur.com/wsTOcuX.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Radio Bremen Fernsehen (1080p)
+#EXTINF:-1  tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Radio Bremen Fernsehen (1080p)
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de"tvg-logo="https://i.imgur.com/9pvCYaA.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Radio Weser TV Bremen (576p)
+#EXTINF:-1  tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="RAN1.de"tvg-logo="https://i.imgur.com/zRg2BEa.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",RAN1 (1080p)
+#EXTINF:-1  tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RAN1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Rauchende Colts
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Rauchende Colts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d764a599-229d-4f63-afae-f8dff18c8389
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Rawhide Tausend Meilen Staub
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Rawhide Tausend Meilen Staub
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2983dcd9100008c2374d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ad98b92-b141-4c24-8811-e6b2de3021dc
-#EXTINF:-1 tvg-id="rbbFernsehenBrandenburg.de"tvg-logo="https://i.imgur.com/aXFZnUY.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",RBB Brandenburg (1080p)
+#EXTINF:-1  tvg-id="rbbFernsehenBrandenburg.de" tvg-logo="https://i.imgur.com/aXFZnUY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBB Brandenburg (1080p)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 tvg-id="RBW.de"tvg-logo="https://i.imgur.com/A0UKdix.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",RBW (1080p)
+#EXTINF:-1  tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Realmadrid TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Realmadrid TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f9b2dc0d45610008505eac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e2301f4-ffeb-490d-8c59-8dc7f123b78a
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Red Shoe Diaries
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Red Shoe Diaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645a0ddfe1979c00086d83ff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0fc7fe13-009d-4208-b8bc-5f75abdfecb5
-#EXTINF:-1 tvg-id="RegioTVBodensee.de"tvg-logo="https://i.imgur.com/3koyLef.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Regio TV Bodensee (1080p)
+#EXTINF:-1  tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Bodensee (1080p)
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVSchwaben.de"tvg-logo="https://i.imgur.com/3koyLef.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Regio TV Schwaben (1080p)
+#EXTINF:-1  tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Schwaben (1080p)
 https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVStuttgart.de"tvg-logo="https://i.imgur.com/3koyLef.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Regio TV Stuttgart (1080p)
+#EXTINF:-1  tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Stuttgart (1080p)
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Reich und Schön
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Reich und Schön
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe45d5c0beb0007cd7571/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3fcfc239-de89-4961-890e-ac018bccd78a
-#EXTINF:-1 tvg-id="RennsteigTV.de"tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Rennsteig TV (720p)
+#EXTINF:-1  tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Rennsteig TV (720p)
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Republic of Doyle
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Republic of Doyle
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651e951fb43b640008bfe697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fa105cf-1359-45f0-893a-801d478126d7
-#EXTINF:-1 tvg-id="RFH.de"tvg-logo="https://i.imgur.com/8DZa7in.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",RFH (1080p)
+#EXTINF:-1  tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",RFH (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RNF.de"tvg-logo="https://i.imgur.com/CRk9usN.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",RNF (1080p)
+#EXTINF:-1  tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RNF (1080p)
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",RoboCop
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RoboCop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b31d1fa6-f169-481e-a79c-8a778111e034
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Rules of Engagement
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Rules of Engagement
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be635a40962900080aaca5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cdb91578-90c7-424e-baec-62c86af7b3f7
-#EXTINF:-1 tvg-id="SaarlandFernsehen1.de"tvg-logo="https://i.imgur.com/OodehFV.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Saarland Fernsehen 1 (1080p)
+#EXTINF:-1  tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Sabrina Total verhext!
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Sabrina Total verhext!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f40c901d4b70007ad7609/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ddb15fc-284f-40a3-b608-5152c320aa22
-#EXTINF:-1 tvg-id="SachsenEins.de"tvg-logo="https://i.imgur.com/2EXNdd8.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Sachsen Eins (1080p)
+#EXTINF:-1  tvg-id="SachsenEins.de" tvg-logo="https://i.imgur.com/2EXNdd8.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Sachsen Eins (1080p)
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Sam & Cat
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Sam & Cat
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bfbf1c99-97ab-4e84-9706-f5141d6bfa99
-#EXTINF:-1 tvg-id="SchlagerDeluxe.de"tvg-logo="https://i.imgur.com/p0W050H.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Schlager Deluxe (1080p)
+#EXTINF:-1  tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Schlager Deluxe (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",School of Rock
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",School of Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d91013a8b22700081388b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0b814c3f-0bbe-4528-8c4f-d24c536330b7
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Scooore
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Scooore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6874b43e-86f9-4252-b693-af5ccc56dd88
-#EXTINF:-1 tvg-id="Seenluft24.de"tvg-logo="https://i.imgur.com/3TgBg9v.jpg"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Seenluft24 (1080p)
+#EXTINF:-1  tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Seenluft24 (1080p)
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SimsalabimSabrina.de"tvg-logo="https://i.imgur.com/N4tdmjE.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Simsalabim Sabrina
+#EXTINF:-1  tvg-id="SimsalabimSabrina.de" tvg-logo="https://i.imgur.com/N4tdmjE.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Simsalabim Sabrina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d22fc39b-64c4-41a9-a5a0-18b370793329
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",South Park: Butters Collection
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",South Park: Butters Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c33f5b82-5c79-40fb-b393-4882708946ac
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",South Park: Cartman Collection
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",South Park: Cartman Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e444da25-6dad-4895-9653-bc36313c7b82
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",South Park: Kenny Collection
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",South Park: Kenny Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cca-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b245b871-bd63-464a-9a06-f92544ac1a7b
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",South Park: Kyle Collection
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",South Park: Kyle Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b21de13-cb73-4216-9568-5d5e11888255
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",South Park: Stan Collection
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",South Park: Stan Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1438e94c3800082a8cff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee52308-1290-4003-a38c-3954380947a1
-#EXTINF:-1 tvg-id="SouvenirsfromEarthTV.de"tvg-logo="https://i.ibb.co/Qf1Ys8S/SOUVENIRS-FROM-EARTH.png"tvg-shift=""group-title="Culture":http-referrer="https://player.castr.com/live_f3bc1800279a11ec89f80341acd6773a":http-user-agent="",Souvenirs from Earth TV
+#EXTINF:-1  tvg-id="SouvenirsfromEarthTV.de" tvg-logo="https://i.ibb.co/Qf1Ys8S/SOUVENIRS-FROM-EARTH.png" tvg-shift="" group-title="Culture" :http-referrer="https://player.castr.com/live_f3bc1800279a11ec89f80341acd6773a" :http-user-agent="",Souvenirs from Earth TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_f3bc1800279a11ec89f80341acd6773a
 https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",SPIEGEL TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SPIEGEL TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=879d9a17-8e2f-4ed6-9a87-97f7c7c48485
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",SPIEGEL TV Konflikte
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SPIEGEL TV Konflikte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6fa519e-8e21-4b06-a396-dae1b93125d1
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de"tvg-logo="https://i.imgur.com/NIsgNvI.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",SpongeBob Schwammkopf
+#EXTINF:-1  tvg-id="SpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/NIsgNvI.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",SpongeBob Schwammkopf
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422
-#EXTINF:-1 tvg-id="SRFernsehen.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",SR Fernsehen (720p)
+#EXTINF:-1  tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SR Fernsehen (720p)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Storage Wars: Canada
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Storage Wars: Canada
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede464e7be0030007c58b73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63da-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a367e69b-211e-4ca6-af6b-1dc6fa54bf89
-#EXTINF:-1 tvg-id="SWR3VisualRadio.de"tvg-logo="https://i.imgur.com/PxSgxRO.jpg"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",SWR 3 Visual Radio (720p)
+#EXTINF:-1  tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",SWR Fernsehen Rheinland-Pfalz (720p)
+#EXTINF:-1  tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SWR Fernsehen Rheinland-Pfalz (720p)
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de"tvg-logo="https://i.imgur.com/LH0Gctv.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Tagesschau 24 (720p)
+#EXTINF:-1  tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Täterjagd
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Täterjagd
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642abea1283aa4000805bb5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d360d3bc-0ba5-40c0-9de5-ad6e1b602f0f
-#EXTINF:-1 tvg-id="TeenNick.de"tvg-logo="https://i.imgur.com/VTWleRc.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",Teen Nick
+#EXTINF:-1  tvg-id="TeenNick.de" tvg-logo="https://i.imgur.com/VTWleRc.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Teen Nick
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a971f40-be5f-4406-a0a6-b014ec38a8ce
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Telenovela ZDF
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Telenovela ZDF
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2110f9dc-f7e7-417c-84ec-63f379b710b9
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Terra Mater WILD
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Terra Mater WILD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b923f90cb1a100088a03ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db5e74b2-3349-4aae-8044-4b85f113beb4
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",The Twilight Zone
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",The Twilight Zone
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c8dd94e4391c0008eb4742/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aceb234b-c468-44e9-9d0c-9a032be740c4
-#EXTINF:-1 tvg-id="TideTV.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Tide TV (1080p)
+#EXTINF:-1  tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tide TV (1080p)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Top Gear
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Top Gear
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa4b8f71-6f6a-4851-b8e9-716771846afc
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Transformers TV
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Transformers TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aeb85f53-a136-4d6f-8952-43fda8f5ce47
-#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de"tvg-logo="https://i.imgur.com/ob9JJPU.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",TV38 Südost-Niedersachen (1080p)
+#EXTINF:-1  tvg-id="TV38SudostNiedersachen.de" tvg-logo="https://i.imgur.com/ob9JJPU.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV38 Südost-Niedersachen (1080p)
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="TVIngolstadt.de"tvg-logo="https://i.imgur.com/Ymh11VV.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",TV Ingolstadt (1080p)
+#EXTINF:-1  tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Unentdeckt Mörder unter uns
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Unentdeckt Mörder unter uns
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4e2413c-4529-473f-854c-6aa3c0528da8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Viper
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Viper
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd900-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8c651043-654e-44a1-b9c1-e1a3e1bea2c8
-#EXTINF:-1 tvg-id="WDR1Live.de"tvg-logo="https://i.imgur.com/RbqDMYx.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR 1 Live (720p)
+#EXTINF:-1  tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenAachen.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Aachen (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Aachen (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Bielefeld (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bielefeld (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBonn.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Bonn (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenBonn.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bonn (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Dortmund (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Dortmund (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDuisburg.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Duisburg (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenDuisburg.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Duisburg (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Düsseldorf (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Düsseldorf (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Essen (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenEssen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Essen (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenKoln.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Köln (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenKoln.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Köln (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenMunster.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Münster (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenMunster.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Münster (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Siegen (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Siegen (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de"tvg-logo="https://i.imgur.com/qn5Vmdu.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WDR Fernsehen Wuppertal (720p)
+#EXTINF:-1  tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Wuppertal (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:-1 tvg-id="WELT.de"tvg-logo="https://i.imgur.com/s4TZoxx.png"tvg-shift=""group-title="News":http-referrer="":http-user-agent="",WELT (1080p) [Not 24/7]
+#EXTINF:-1  tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",WELT (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Willkommen bei den Louds
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Willkommen bei den Louds
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd904-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e0111a68-96dd-4929-aea5-e18528a1add5
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Wings Die Überflieger
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Wings Die Überflieger
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b38e310d9ab400082bdec2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd905-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7925cf55-0cda-4685-beb7-5d7be25d1556
-#EXTINF:-1 tvg-id="WorldPokerTour.de"tvg-logo="https://i.imgur.com/jEe1dWV.png"tvg-shift=""group-title="Sports":http-referrer="":http-user-agent="",World Poker Tour
+#EXTINF:-1  tvg-id="WorldPokerTour.de" tvg-logo="https://i.imgur.com/jEe1dWV.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",X-Factor: Das Unfassbare
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",X-Factor: Das Unfassbare
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00011-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0a16fea-9491-49e8-8a50-ca6716fb7976
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",Yu-Gi-Oh!
+#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00012-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7978130e-8cf9-40ac-8973-675ca743190d
-#EXTINF:-1 tvg-id="ZDF.de"tvg-logo="https://i.imgur.com/rtLb6m9.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",ZDF (720p)
+#EXTINF:-1  tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDF (720p)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de"tvg-logo="https://i.imgur.com/vtq1IWp.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",ZDFinfo (720p)
+#EXTINF:-1  tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDFinfo (720p)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de"tvg-logo="https://i.imgur.com/1JIIGgL.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",ZDFneo (720p)
+#EXTINF:-1  tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDFneo (720p)
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
