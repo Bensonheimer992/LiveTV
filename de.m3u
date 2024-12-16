@@ -74,7 +74,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
 #EXTINF:-1  tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/BmklHs8.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",DASDING 90.8 (720p)
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Darts x Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/R8Du8aY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Darts x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e449819-d189-42df-8e7a-17486c6d68aa
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Heldinnen x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
@@ -108,7 +108,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819f14b9adc4000813ee39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40b7900e-6657-42b2-afd3-3bf51708cfce
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Familienbande
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe3a21eac3c00076a03f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c90d1870-ec22-4d9a-a5ae-f96ad9e66c77
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Filmgold
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/YUCku4S.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
 #EXTINF:-1  tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" tvg-shift="" group-title="Movies" :http-referrer="" :http-user-agent="",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
