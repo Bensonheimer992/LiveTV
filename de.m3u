@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1  tvg-id="DisneyChannel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Disney Channel
+https://s6.hopslan.com/disney/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2_d.webp" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",RTL
 https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="TOGGOplus.de" tvg-logo="https://i.imgur.com/wOkQiVe_d.webp" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
