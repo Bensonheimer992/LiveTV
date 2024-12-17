@@ -1,15 +1,15 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="VOX.de" tvg-logo="https://i.imgur.com/gSl0GDf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",VOX
 https://strm.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:-1  tvg-id="SAT.1" tvg-logo="https://i.imgur.com/BbwGt1M.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
+#EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/BbwGt1M.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:-1  tvg-id="n-tv" tvg-logo="https://i.imgur.com/y53GMGD.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",n-tv
+#EXTINF:-1  tvg-id="ntv.de" tvg-logo="https://i.imgur.com/y53GMGD.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",n-tv
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:-1  tvg-id="TLC" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
+#EXTINF:-1  tvg-id="TLC.de" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:-1  tvg-id="kabel eins" tvg-logo="https://i.imgur.com/20o5OWX.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",kabel eins
+#EXTINF:-1  tvg-id="kabeleins.de" tvg-logo="https://i.imgur.com/20o5OWX.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",kabel eins
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:-1  tvg-id="SAT.1 Gold" tvg-logo="https://i.imgur.com/XjRKocq.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SAT.1 Gold (720p)
+#EXTINF:-1  tvg-id="SAT1Gold.de" tvg-logo="https://i.imgur.com/XjRKocq.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SAT.1 Gold (720p)
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1  tvg-id="SuperRTLHD.de" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
