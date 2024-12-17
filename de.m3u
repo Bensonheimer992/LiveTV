@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1  tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2_d.webp" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",RTL
+https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="TOGGOplus.de" tvg-logo="https://i.imgur.com/wOkQiVe_d.webp" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
+https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="VOX.de" tvg-logo="https://i.imgur.com/gSl0GDf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",VOX
 https://strm.hdtvizlecanli.com/live/vox.m3u8
 #EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/BbwGt1M.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
