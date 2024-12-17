@@ -11,7 +11,7 @@ https://strm.hdtvizlecanli.com/live/tlc.m3u8
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1  tvg-id="SAT.1 Gold" tvg-logo="https://i.imgur.com/XjRKocq.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SAT.1 Gold (720p)
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:-1  tvg-id="SuperRTL" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
+#EXTINF:-1  tvg-id="SuperRTLHD.de" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",3sat (720p)
