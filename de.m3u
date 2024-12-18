@@ -472,28 +472,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd900-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8c651043-654e-44a1-b9c1-e1a3e1bea2c8
 #EXTINF:-1  tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Aachen (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bielefeld (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenBonn.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bonn (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Dortmund (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenDuisburg.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Duisburg (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Düsseldorf (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenEssen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Essen (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenKoln.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Köln (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenMunster.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Münster (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Siegen (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1  tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Wuppertal (720p)
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Willkommen bei den Louds
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd904-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e0111a68-96dd-4929-aea5-e18528a1add5
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Wings Die Überflieger
