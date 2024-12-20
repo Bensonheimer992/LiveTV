@@ -11,6 +11,15 @@ Dann setzt du den Typ auf M3U und die URL auf:
 https://raw.githubusercontent.com/Bensonheimer992/LiveTV/refs/heads/main/de.m3u
 ```
 
+### Vorgefertigte EPG Dateien
+```bash
+https://tvf.np200.de/tv/hdplus/guide.xml
+https://tvf.np200.de/tv/magenta-at/guide.xml
+https://tvf.np200.de/tv/magenta-tv/guide.xml
+https://tvf.np200.de/tv/horizion/guide.xml
+```
+
+Wenn du deine eigenen EPG Dateien machen willst mache mit dem Tutorial einfach weiter
 
 Führe dann diesen Command aus:
 ```bash
