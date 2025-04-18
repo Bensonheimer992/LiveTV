@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1  tvg-id="CCMadeinGermany.de" tvg-logo="https://i.imgur.com/er0iYvS.png" tvg-shift="" group-title="Comedy" :http-referrer="" :http-user-agent="",CC Made in Germany
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cebc08f6-619a-468b-ba8e-e6971225e6c6
 #EXTINF:-1  tvg-id="CCPlutoTV.de" tvg-logo="https://i.imgur.com/MjC40At.png" tvg-shift="" group-title="Comedy" :http-referrer="" :http-user-agent="",CC Pluto TV
@@ -72,7 +72,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1  tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",RFH (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1  tvg-id="DisneyChannel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Disney Channel
-https://s6.hopslan.com/disney/tracks-v1a1/mono.m3u8
+https://izle.canlitvapp.com/ddsy/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="TOGGOplus.de" tvg-logo="https://i.imgur.com/wOkQiVe_d.webp" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
 https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="BeybladeBurst.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Beyblade Burst
