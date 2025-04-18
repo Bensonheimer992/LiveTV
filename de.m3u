@@ -46,7 +46,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0447-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb5d0b-2c4f-4b1b-8610-d3689603c938
 #EXTINF:-1  tvg-id="MyTVplus.de" tvg-logo="https://i.imgur.com/zA22TQH.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MyTVplus (Dresden) (576p)
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1  tvg-id="SuperRTLHD.de" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
+#EXTINF:-1  tvg-id="RTLSuper.de" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="https://www.2ix2.com/super-rtl-live/" :http-user-agent="",Super RTL HD (720p)
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",3sat (720p)
