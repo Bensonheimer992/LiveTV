@@ -133,7 +133,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/BbwGt1M.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
+#EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/09fCxIJ.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1  tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",WELT (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
@@ -414,8 +414,6 @@ https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/pl
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Unentdeckt Mörder unter uns
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4e2413c-4529-473f-854c-6aa3c0528da8
-#EXTINF:-1  tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR 1 Live (720p)
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenBonn.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bonn (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Düsseldorf (720p)
