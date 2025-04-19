@@ -168,9 +168,9 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1  tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/R8Du8aY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Darts x Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/kSSIGAw.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Darts x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e449819-d189-42df-8e7a-17486c6d68aa
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Heldinnen x Pluto TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/MkOc1lX.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",DAZN Heldinnen x Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Dittsche
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41a61ea0-a15c-4696-a42f-21d3370d4067
