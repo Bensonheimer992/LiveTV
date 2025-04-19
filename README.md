@@ -13,10 +13,11 @@ https://raw.githubusercontent.com/Bensonheimer992/LiveTV/refs/heads/main/de.m3u
 
 ### Vorgefertigte EPG Dateien
 ```bash
-https://tvf.np200.de/tv/hdplus/guide.xml
 https://tvf.np200.de/tv/magenta-at/guide.xml
 https://tvf.np200.de/tv/magenta-tv/guide.xml
-https://tvf.np200.de/tv/horizion/guide.xml
+https://tvf.np200.de/tv/horizon/guide.xml
+https://tvf.np200.de/tv/tvheute/guide.xml
+https://tvf.np200.de/tv/mjh/guide.xml
 ```
 
 Wenn du deine eigenen EPG Dateien machen willst mache mit dem Tutorial einfach weiter
