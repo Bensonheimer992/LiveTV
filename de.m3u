@@ -70,8 +70,6 @@ https://izle.canlitvapp.com/ddsy/tracks-v1a1/mono.m3u8
 https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="BluesClues.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Blue's Clues
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c6a32f6-bdd9-4cb2-8697-def40b294b7e
-#EXTINF:-1  tvg-id="DoraTV.de" tvg-logo="https://i.imgur.com/zJuSbmU.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Dora TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f38d5cb-dcfd-4261-b299-2bb3409c224c
 #EXTINF:-1  tvg-id="KiKA.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",KiKA (1080p)
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1  tvg-id="NickSpace.de" tvg-logo="https://i.imgur.com/DNzsCLg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Nick Space
@@ -160,8 +158,6 @@ https://strm.hdtvizlecanli.com/live/ntv.m3u8
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Billiard TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6a5c7ba-51fa-40bf-ba59-05a9daef6fd5
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Blaze und die Monstermaschinen
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4041af9-036d-4b63-bc69-460e45fdcf98
 #EXTINF:-1  tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/26s6V64.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",BR Fernsehen Nord (720p)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1  tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/26s6V64.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",BR Fernsehen Süd (720p)
@@ -351,34 +347,20 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1  tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Täterjagd
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642abea1283aa4000805bb5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d360d3bc-0ba5-40c0-9de5-ad6e1b602f0f
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Telenovela ZDF
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2110f9dc-f7e7-417c-84ec-63f379b710b9
 #EXTINF:-1  tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tide TV (1080p)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Top Gear
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa4b8f71-6f6a-4851-b8e9-716771846afc
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Transformers TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aeb85f53-a136-4d6f-8952-43fda8f5ce47
 #EXTINF:-1  tvg-id="TV38SudostNiedersachen.de" tvg-logo="https://i.imgur.com/ob9JJPU.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV38 Südost-Niedersachen (1080p)
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
 #EXTINF:-1  tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Unentdeckt Mörder unter uns
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4e2413c-4529-473f-854c-6aa3c0528da8
 #EXTINF:-1  tvg-id="WDRFernsehenBonn.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bonn (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Düsseldorf (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Willkommen bei den Louds
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd904-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e0111a68-96dd-4929-aea5-e18528a1add5
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Wings Die Überflieger
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b38e310d9ab400082bdec2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd905-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7925cf55-0cda-4685-beb7-5d7be25d1556
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",X-Factor: Das Unfassbare
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00011-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0a16fea-9491-49e8-8a50-ca6716fb7976
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Yu-Gi-Oh!
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00012-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7978130e-8cf9-40ac-8973-675ca743190d
 #EXTINF:-1  tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDF (720p)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1  tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDFinfo (720p)
