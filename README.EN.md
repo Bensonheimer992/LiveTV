@@ -37,7 +37,8 @@ docker run
 --name epggetter 
 --restart unless-stopped 
 -e SITE=site 
--e MAX_CONNECTIONS=100 
+-e MAX_CONNECTIONS=100
+-e LANG=en
 -v /path/guide.xml:/app/guide.xml
 bensonheimer992/iptv-epg 
 ```
