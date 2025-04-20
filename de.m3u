@@ -267,7 +267,7 @@ https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF:-1  tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Wernigerode (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1  tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",One (1080p)
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1  tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Phoenix (720p)
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Pluto TV Deutsches Kino
