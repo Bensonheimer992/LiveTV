@@ -18,6 +18,7 @@ https://tvf.np200.de/tv/magenta-tv/guide.xml
 https://tvf.np200.de/tv/horizon/guide.xml
 https://tvf.np200.de/tv/tvheute/guide.xml
 https://tvf.np200.de/tv/mjh/guide.xml
+https://tvf.np200.de/tv/tvblue/guide.xml
 ```
 
 Wenn du deine eigenen EPG Dateien machen willst mache mit dem Tutorial einfach weiter
