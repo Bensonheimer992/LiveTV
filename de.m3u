@@ -10,7 +10,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8
 #EXTINF:-1  tvg-id="Dokusat.de" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1  tvg-id="N24Doku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",N24 Doku
+#EXTINF:-1  tvg-id="N24Doku.de" tvg-logo="https://imgur.com/TXbyf2R" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",N24 Doku
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
 #EXTINF:-1  tvg-id="PlutoTVAnimals.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
@@ -337,28 +337,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6fa519e-8e21-4b06-a396-dae1b93125d1
 #EXTINF:-1  tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SR Fernsehen (720p)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Storage Wars: Canada
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede464e7be0030007c58b73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63da-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a367e69b-211e-4ca6-af6b-1dc6fa54bf89
 #EXTINF:-1  tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1  tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SWR Fernsehen Rheinland-Pfalz (720p)
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1  tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Telenovela ZDF
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2110f9dc-f7e7-417c-84ec-63f379b710b9
-#EXTINF:-1  tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Tide TV (1080p)
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TV38SudostNiedersachen.de" tvg-logo="https://i.imgur.com/ob9JJPU.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV38 Südost-Niedersachen (1080p)
-https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-#EXTINF:-1  tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",TV Ingolstadt (1080p)
-https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenBonn.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Bonn (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
 #EXTINF:-1  tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://i.imgur.com/qn5Vmdu.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",WDR Fernsehen Düsseldorf (720p)
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",X-Factor: Das Unfassbare
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00011-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0a16fea-9491-49e8-8a50-ca6716fb7976
 #EXTINF:-1  tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDF (720p)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1  tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",ZDFinfo (720p)
