@@ -45,8 +45,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="TLC.de" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:-1  tvg-id="MarcoPoloTV.de" tvg-logo="https://i.imgur.com/tAaMdp0.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",Marco Polo TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb624-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c670d03b-8683-44b1-822a-72919a68ae4d
 #EXTINF:-1  tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Dance (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1  tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Music (720p)
@@ -55,8 +53,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1  tvg-id="Lausitzwelle.de" tvg-logo="https://i.imgur.com/4kYF4bK.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1  tvg-id="MagentaMusik360.de" tvg-logo="https://i.imgur.com/R74gG7U.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Magenta Musik 360 (1080p)
-https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1  tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/09fCxIJ.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
@@ -65,8 +61,6 @@ https://strm.hdtvizlecanli.com/live/sat1.m3u8
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 #EXTINF:-1  tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-shift="" group-title="Outdoor;Travel" :http-referrer="" :http-user-agent="",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1  tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1  tvg-id="WorldPokerTour.de" tvg-logo="https://i.imgur.com/jEe1dWV.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
 #EXTINF:-1  tvg-id="VOX.de" tvg-logo="https://i.imgur.com/gSl0GDf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",VOX
@@ -87,10 +81,6 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
 #EXTINF:-1  tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Niederbayern TV (720p)
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:-1  tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2LRKI.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Noa 4 Hamburg (1080p)
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1  tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Noa 4 Norderstedt (1080p)
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1  tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",NRWision (1080p)
 https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="OberlausitzTV.de" tvg-logo="https://i.imgur.com/A7WA7dC.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Oberlausitz TV (1080p)
@@ -99,32 +89,6 @@ https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1  tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OF-TV Offenbach (720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1  tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Flensburg (576p)
-https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1  tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kaiserslautern (720p)
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1  tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kassel (720p)
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1  tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Kiel (576p)
-https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1  tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Magdeburg (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1  tvg-id="OKTVMainz.de" tvg-logo="https://i.imgur.com/XvK94tN.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Mainz (720p)
-https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
-#EXTINF:-1  tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Rhein-Main (576p)
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1  tvg-id="OKRheinLokalWorms.de" tvg-logo="https://i.imgur.com/6tAimWV.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK RheinLokal (Worms) (720p)
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-#EXTINF:-1  tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Stendal (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-#EXTINF:-1  tvg-id="OKSuedwestpfalz.de" tvg-logo="https://i.imgur.com/lhlQzLg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Suedwestpfalz (720p)
-https://s.ok54.de/okswp/test/playlist.m3u8
-#EXTINF:-1  tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Trier (720p)
-https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1  tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Weinstraße (Neustadt) (432p)
-https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1  tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OK Wernigerode (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1  tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",One (1080p)
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1  tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Phoenix (720p)
