@@ -37,8 +37,6 @@ https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1  tvg-id="NickSpace.de" tvg-logo="https://i.imgur.com/DNzsCLg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5260-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6835637-a922-4815-9f33-c332f95fd25c
-#EXTINF:-1  tvg-id="SpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/NIsgNvI.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",SpongeBob Schwammkopf
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422
 #EXTINF:-1  tvg-id="TeenNick.de" tvg-logo="https://i.imgur.com/VTWleRc.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Teen Nick
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a971f40-be5f-4406-a0a6-b014ec38a8ce
 #EXTINF:-1  tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-shift="" group-title="Legislative" :http-referrer="" :http-user-agent="",Parlamentsfernsehen 1 (1080p)
@@ -59,10 +57,6 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1  tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",WELT (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
-#EXTINF:-1  tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-shift="" group-title="Outdoor;Travel" :http-referrer="" :http-user-agent="",Peer TV Südtirol (1080p)
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1  tvg-id="WorldPokerTour.de" tvg-logo="https://i.imgur.com/jEe1dWV.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",World Poker Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
 #EXTINF:-1  tvg-id="VOX.de" tvg-logo="https://i.imgur.com/gSl0GDf.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",VOX
 https://strm.hdtvizlecanli.com/live/vox.m3u8
 #EXTINF:-1  tvg-id="ntv.de" tvg-logo="https://i.imgur.com/y53GMGD.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",n-tv
@@ -87,8 +81,6 @@ https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1  tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1  tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",OF-TV Offenbach (720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1  tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",One (1080p)
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1  tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Phoenix (720p)
