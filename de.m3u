@@ -65,8 +65,6 @@ https://strm.hdtvizlecanli.com/live/sat1.m3u8
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 #EXTINF:-1  tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-shift="" group-title="Outdoor;Travel" :http-referrer="" :http-user-agent="",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1  tvg-id="ChaosCity.de" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Chaos City
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
 #EXTINF:-1  tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1  tvg-id="WorldPokerTour.de" tvg-logo="https://i.imgur.com/jEe1dWV.png" tvg-shift="" group-title="Sports" :http-referrer="" :http-user-agent="",World Poker Tour
