@@ -67,20 +67,8 @@ https://strm.hdtvizlecanli.com/live/sat1.m3u8
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 #EXTINF:-1  tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-shift="" group-title="Outdoor;Travel" :http-referrer="" :http-user-agent="",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1  tvg-id="Avatar.de" tvg-logo="https://i.imgur.com/4nDlMt0.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Avatar
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
-#EXTINF:-1  tvg-id="BeverlyHills90210.de" tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Beverly Hills 90210
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c388ec54-e705-453e-8f4f-45a71cebb28d
 #EXTINF:-1  tvg-id="ChaosCity.de" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Chaos City
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
-#EXTINF:-1  tvg-id="Cheers.de" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Cheers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d96d22d-3148-4e7e-b0e9-67b35648c724
-#EXTINF:-1  tvg-id="ComedyCentralSouthPark.de" tvg-logo="https://i.imgur.com/M5rmICZ.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Comedy Central South Park
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c716084d842c00085f6e64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97acadcb-fbad-44de-8539-290d36c83227
-#EXTINF:-1  tvg-id="iCarly.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",iCarly
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f13-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=016798d3-d8a9-4683-81ba-9d514289474b
-#EXTINF:-1  tvg-id="IcePilots.de" tvg-logo="https://i.imgur.com/WU0PgnM.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",Ice Pilots
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f14-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e3f7479-1434-4263-91dc-309a9e66bfbe
 #EXTINF:-1  tvg-id="MTVCatfishTVShow.de" tvg-logo="https://i.imgur.com/EhRHAT2.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV Catfish TV Show
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
 #EXTINF:-1  tvg-id="MTVTeenMom.de" tvg-logo="https://i.imgur.com/w82lkBz.png" tvg-shift="" group-title="Series" :http-referrer="" :http-user-agent="",MTV Teen Mom
@@ -172,12 +160,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1  tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1  tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Bodensee (1080p)
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1  tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Schwaben (1080p)
-https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1  tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Regio TV Stuttgart (1080p)
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1  tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Rennsteig TV (720p)
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RNF (1080p)
