@@ -94,7 +94,7 @@ https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1  tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RAN1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1  tvg-id="rbbFernsehenBrandenburg.de" tvg-logo="https://i.imgur.com/aXFZnUY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBB Brandenburg (1080p)
+#EXTINF:-1  tvg-id="rbbFernsehen.de@Brandenburg" tvg-logo="https://i.imgur.com/aXFZnUY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBB Brandenburg (1080p)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1  tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
