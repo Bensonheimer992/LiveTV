@@ -54,7 +54,7 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1  tvg-id="rbbFernsehen.de@Brandenburg" tvg-logo="https://i.imgur.com/aXFZnUY.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",RBB Brandenburg (1080p)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1  tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Schlager Deluxe (1080p)
+#EXTINF:-1  tvg-id="SchlagerDeluxe.de@SD" tvg-logo="https://i.imgur.com/p0W050H.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",Schlager Deluxe (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1  tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" tvg-shift="" group-title="Undefined" :http-referrer="" :http-user-agent="",SR Fernsehen (720p)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
