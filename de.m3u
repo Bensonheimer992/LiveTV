@@ -1,41 +1,35 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="Dokusat.de" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Dokusat (1080p)
+#EXTINF:-1  tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1  tvg-id="N24Doku.de" tvg-logo="https://imgur.com/TXbyf2R" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",N24 Doku
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
-#EXTINF:-1  tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2_d.webp" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",RTL
-https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="kabeleins.de" tvg-logo="https://i.imgur.com/20o5OWX.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",kabel eins
+#EXTINF:-1  tvg-id="N24Doku.de@SD" tvg-logo="https://imgur.com/TXbyf2R" tvg-shift="" group-title="Documentary" :http-referrer="" :http-user-agent="",N24 Doku
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
+#EXTINF:-1  tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2_d.webp" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1  tvg-id="kabeleins.de@SD" tvg-logo="https://i.imgur.com/20o5OWX.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",kabel eins
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:-1  tvg-id="arte.de" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",ARTE (720p)
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1  tvg-id="RTLSuper.de" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Super RTL HD (720p)
-https://strm.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:-1  tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",3sat (720p)
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1  tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Das Erste (1080p)
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:-1  tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",MDR Fernsehen Sachsen-Anhalt (1080p)
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
-#EXTINF:-1  tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",NDR Hamburg (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1  tvg-id="DisneyChannel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Disney Channel
-https://izle.canlitvapp.com/ddsy/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="TOGGOplus.de" tvg-logo="https://i.imgur.com/wOkQiVe_d.webp" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
+#EXTINF:-1  tvg-id="arte.de@HD" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",ARTE (720p)
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1  tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/S6KzchP.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Super RTL HD (720p)
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDM2MjgwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zdXBlcnJ0bC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmZjMxODJiMTZiMTc1ZWUzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbNDhdfQ==.5VyNXKriXh-z4BrP7Y5RHCN9E_5XE84tkuIxoVZ6c0iKciT-qLR4wNaR4purnNB3jh-NdIZxEq5wz5Va9fD7Xg==/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1  tvg-id="3sat.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",3sat (720p)
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDM2MTI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8zc2F0aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGMxOWExN2NlZTM3NzEwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6WzQ4XX0=.WdwkjXCY186OU9FClI38gJkirTouBB8Yxl9OzfpDn-z5HKr30kSstB4dBR3WkvIAwt9Q63XUGQim3PGj5lzjNA==/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1  tvg-id="DasErste.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Das Erste (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1  tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Disney Channel
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDM2Mzg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9kaXNuZXljaGFubmVsZGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWVjZWMwZTQ5N2FhY2ViNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.KHhLlgNPFNg5TYn-1IdJaOecfGBmSEQBsh8tmcQPpfgA5LjZU3rQuTU5J1DJGH3Mk2zz82q_s0fqo3yVhrujRQ==/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1  tvg-id="TOGGOplus.de@SD" tvg-logo="https://i.imgur.com/wOkQiVe_d.webp" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
 https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",KiKA (1080p)
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDM1ODE1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9raWthaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNDRmZDIxMjg0N2Y0ZmRiMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6Wzg0XX0=.5IfUYH_L5hlgAYS9vsJp6YA9KQw1XGOIAoFa-lGQzn586oHdODl7LY8D_p3GbsR8cS-VFnLHJafZVzHf__a1AQ==/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1  tvg-id="NickSpace.de" tvg-logo="https://i.imgur.com/DNzsCLg.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Nick Space
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5260-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6835637-a922-4815-9f33-c332f95fd25c
-#EXTINF:-1  tvg-id="TLC.de" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
+#EXTINF:-1  tvg-id="TLC.de@SD" tvg-logo="https://i.imgur.com/WJFAc3n.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
 https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:-1  tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Dance (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1  tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Music (720p)
+#EXTINF:-1  tvg-id="DeluxeDance.de@SD" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Dance (1080p)
+https://34cfa10eb04f4fc4a7ef2c0e50045c37.mediatailor.eu-central-1.amazonaws.com/v1/master/a70cc84c3dba4ef72d8049e87ba9bd3c406d8e24/Deluxe_Dance_Ads/64733_264_live.m3u8
+#EXTINF:-1  tvg-id="DeluxeMusic.de@SD" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1  tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Rap (1080p)
+#EXTINF:-1  tvg-id="DeluxeRap.de@SD" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1  tvg-id="SAT1.de" tvg-logo="https://i.imgur.com/09fCxIJ.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
+#EXTINF:-1  tvg-id="SAT1.de@SD" tvg-logo="https://i.imgur.com/09fCxIJ.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",SAT.1
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1  tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",WELT (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
