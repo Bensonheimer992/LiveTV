@@ -16,13 +16,13 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png" tvg-shift="" group-title="General" :http-referrer="" :http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/disney-channel-de.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Disney Channel
-https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDM2Mzg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9kaXNuZXljaGFubmVsZGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWVjZWMwZTQ5N2FhY2ViNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.KHhLlgNPFNg5TYn-1IdJaOecfGBmSEQBsh8tmcQPpfgA5LjZU3rQuTU5J1DJGH3Mk2zz82q_s0fqo3yVhrujRQ==/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="TOGGOplus.de@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/toggo-plus-de.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",TOGGO plus
 https://izle.canlitvapp.com/tog/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="TLC.de@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tlc-de.png" tvg-shift="" group-title="Lifestyle" :http-referrer="" :http-user-agent="",TLC
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
+https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-dance-de.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Dance
 https://34cfa10eb04f4fc4a7ef2c0e50045c37.mediatailor.eu-central-1.amazonaws.com/v1/master/a70cc84c3dba4ef72d8049e87ba9bd3c406d8e24/Deluxe_Dance_Ads/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" tvg-shift="" group-title="Music" :http-referrer="" :http-user-agent="",Deluxe Music
@@ -38,7 +38,7 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ntv-de.png" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",n-tv
 https://p-homelive-cf.ntv-cloudfront.aws-cbc.cloud/live/ntvhome/hls/ntvhome.m3u8
 #EXTINF:-1 tvg-id="SAT1Gold.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-gold-de.png" tvg-shift="" group-title="Entertainment" :http-referrer="" :http-user-agent="",SAT.1 Gold
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-fernsehen-de.png" tvg-shift="" group-title="Regional" :http-referrer="" :http-user-agent="",BR Fernsehen Nord
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-sud-de.png" tvg-shift="" group-title="Regional" :http-referrer="" :http-user-agent="",BR Fernsehen Süd
